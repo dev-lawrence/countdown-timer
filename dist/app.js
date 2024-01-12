@@ -1,5 +1,5 @@
 const countDown = () => {
-  const launchTime = new Date('31 July, 2022 00:00:00').getTime();
+  const launchTime = new Date('31 July, 2024 00:00:00').getTime();
   const presentTime = new Date().getTime();
   const gap = launchTime - presentTime;
 
